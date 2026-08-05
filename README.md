@@ -3,6 +3,8 @@
 Animated ASCII art for the terminal. Pure Python 3 + curses — the art pieces have
 zero dependencies beyond the standard library.
 
+![art eminem — MARSHALL → SLIM SHADY → ƎMINEM marquee glitching between names](demo/eminem.gif)
+
 ## Pieces
 
 | Piece | Command | What it is |
